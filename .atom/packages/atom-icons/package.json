@@ -1,0 +1,44 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+  "_id": "atom-icons@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-8fjp0cgnIM5o4to/M15roVWDcHyM/TsTqoLEMwofAC1MpyzjGue5ezZuCynA2u4/fi16syN/9sviVVbrl0fGRw==",
+  "_location": "/atom-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+  "_shasum": "63cfba7b95233f9345454fa7589877f22b60db24",
+  "_spec": "https://www.atom.io/api/packages/atom-icons/versions/0.2.2/tarball",
+  "_where": "C:\\Users\\josec\\AppData\\Local\\Temp\\apm-install-dir-120919-8176-8i9qh8.3h2y",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/atom-icons/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The awesome icons for Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tvrcgo/atom-icons#readme",
+  "keywords": [
+    "icon"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "atom-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/atom-icons.git"
+  },
+  "version": "0.2.2"
+}

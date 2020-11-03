@@ -1,0 +1,10 @@
+"*":
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-material-syntax-dark"
+    ]
+  editor:
+    fontSize: 31
+  "exception-reporting":
+    userId: "fbb92100-8ec2-4602-b999-3dd7e9cd07df"

@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+  "_id": "atom-one-dark-syntax@1.13.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VfZuALwT1mdQN0rn+jVa/l+x6xGdERB2DlHAzrqpyxeN/mFyN73B7JE2fwZf21MmDGkP4GHDU2rVK4T9Ppl/AA==",
+  "_location": "/atom-one-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+  "_shasum": "413a800e79dd8baee888734f2d5b299d7479b0d5",
+  "_spec": "https://www.atom.io/api/packages/atom-one-dark-syntax/versions/1.13.0/tarball",
+  "_where": "C:\\Users\\josec\\AppData\\Local\\Temp\\apm-install-dir-120919-9880-kirp25.h42nq",
+  "bugs": {
+    "url": "https://github.com/iakhator/atom-one-dark-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A one dark syntax theme",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/iakhator/atom-one-dark-syntax#readme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "atom-one-dark-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iakhator/atom-one-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.13.0"
+}
