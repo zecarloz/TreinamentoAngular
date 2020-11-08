@@ -12,4 +12,5 @@ The app will automatically reload if you change any of the source files.
     responsivas usando bootstrap,interpolação,eventBindings,diretivas ngIf e ngFor , 
     life-cycle-hooks e mais algum conhecimento
     . Criarei uma barra de progresso  e tela exibindo acertos e errros. 
+   ( Para este app,baixe e inicie somente o diretório App1)
   
