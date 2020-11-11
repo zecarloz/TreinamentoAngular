@@ -16,8 +16,6 @@
 > $ npm install
 * Rode os comandos para subir o servidor e abrir no Browse
 > $ ng s -o
-* To run the project:
-> $ rails s
 
 ## Links
 
