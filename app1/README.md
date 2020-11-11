@@ -1,11 +1,26 @@
 # App1 aprender ingles
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simparatodos.com.br%2Faprender-ingles-em-casa%2F&psig=AOvVaw1uhMsjoNf_HcjGfWvszaLf&ust=1605200258751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi21fuV--wCFQAAAAAdAAAAABAD)
+## App1 
+Este app tem por objetivo auxiliar as pessoas a aprenderem inglês de forma fácil e diertida
+## Technology
+* Angular cli v10
+* Nodejs v14
+* Typescript 4.0.5
 
-## Development server
+## Getting started
+> $ npm install
+* To create the bank and do as migrations:
+## Rodando o projeto
+> $ ng s -o
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
-The app will automatically reload if you change any of the source files.
-Clone o repositorio e nicie o diretorio app1  no terminal com os comandos npm i
-após iniciar o app subir o servidor com ng s -o
+## Links
+- Repository: https://github.com/zecarloz/TreinamentoAngular.git
+
+## Versioning
+1.0.0.0
+## Authors
+* **José Carlos **:(https://github.com/zecarloz)
+### Obrigado por me visitar e boa codificação!
+### Siga o github e junte-se a nós!
    
