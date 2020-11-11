@@ -1,6 +1,6 @@
 # App1 aprender ingles
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simparatodos.com.br%2Faprender-ingles-em-casa%2F&psig=AOvVaw1uhMsjoNf_HcjGfWvszaLf&ust=1605200258751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi21fuV--wCFQAAAAAdAAAAABAD)
+![Logo of the project](https://pbs.twimg.com/profile_images/1146605501641347072/OF_cCbPN_400x400.jpg)
 ## App1 
 Este app tem por objetivo auxiliar as pessoas a aprenderem inglês de forma fácil e diertida
 ## Technology
