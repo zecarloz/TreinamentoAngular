@@ -1,7 +1,7 @@
 # App1 
 
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRphHZNGjanYTyl43WlFysaF6TXBN5DgE-qFA&usqp=CAU)
-## Aprenda inglês sozinho
+## Aprenda inglês com um app
 
 ## Technologias usadas
 
