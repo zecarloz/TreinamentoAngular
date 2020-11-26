@@ -23,7 +23,7 @@
 
 ## Versão
 1.0.0.0
-## autor :
+## autor
 * **José carlos (https://github.com/zecarloz)
 ###  Siga-me no github !
 #### Obrigado por visitar e boa codificação a todos!
