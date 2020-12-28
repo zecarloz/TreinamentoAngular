@@ -26,4 +26,4 @@
 ## autor
 * **José carlos (https://github.com/zecarloz)
 ###  Siga-me no github !
-#### Obrigado por visitar e boa codificação a todos!
+#### Obrigado por visitar e boa codificação a todos nós .
