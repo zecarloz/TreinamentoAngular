@@ -22,7 +22,7 @@
 - Repository: https://github.com/zecarloz/TreinamentoAngular.git
 
 ## Versão
-1.0.0.0
+1.0.0
 ## autor
 * **José carlos (https://github.com/zecarloz)
 ###  Siga-me no github !
