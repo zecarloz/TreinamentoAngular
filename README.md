@@ -12,10 +12,10 @@
 ## Getting started
 
 * para rodar op projeto
-* Clone o repositorio 
-> $ npm install
-* Rode os comandos para subir o servidor e abrir no Browse
-> $ ng s -o
+* Clone o repositorio ,
+> $ npm install,
+* Rode os comandos para subir o servidor e abrir no Browse,
+> $ ng s -o 
 
 ## Links
 
