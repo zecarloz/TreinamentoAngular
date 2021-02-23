@@ -11,7 +11,7 @@
 
 ## Getting started
 
-* para rodar op projeto
+* para rodar o projeto
 * Clone o repositorio ,
 > $ npm install,
 * Rode os comandos para subir o servidor e abrir no Browse,
