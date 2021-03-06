@@ -24,6 +24,6 @@
 ## Versão
 1.0.0
 ## autor
-* **José carlos (https://github.com/zecarloz)
+#### Veja mais de José carlos em (https://github.com/zecarloz)
 ###  Siga-me no github !
 #### Obrigado por visitar e boa codificação pra todos.
